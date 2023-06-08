@@ -1,0 +1,27 @@
+{
+  "name": "chatbt-bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soxzen/chatbt-BDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soxzen/chatbt-BDD/issues"
+  },
+  "homepage": "https://github.com/Soxzen/chatbt-BDD#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "nodeom": "^0.0.1",
+    "sequelize": "^6.32.0",
+    "sqlite3": "^5.1.6"
+  }
+}
